@@ -1,0 +1,47 @@
+<table>
+<tbody><tr>
+   <ul> <td><li>
+        <label >Full Name:</label></li>
+    </td></ul>
+    <td><input type="text"placeholder= "" autofocus required></td></tr>
+    <tr>
+        <ul><td><li><label>Email Address :</label></li></td></ul>
+        <td><input type="text" placeholder="" required></td>
+    </tr>
+    <tr><ul><td><li><label>Password:</label></li></td></ul>
+    <td><input type="password"/></td></tr>
+    <tr><ul><td><li><label ></label>Contact Number:&nbsp;&nbsp;</label></li></td></ul>
+    <td><input type="number" ="" required=""></td></tr>
+    <tr><ul><td><li><label>upload Profile photo :</label></li></td></ul>
+    <td><input type="text" name="" id=""></td></tr>
+    <tr><ul><td><li><label> Date of Birth:</label></li></td></ul>
+    <td> <input type="date" name="birthdate"></td></tr>
+    <tr><ul><td><li><label>Select Gender:</label></li></td></ul>
+    <td><input type="radio" name="gender" value="male">male</td>
+    <td><input type="radio" name="gender" value="Female">Female</td>
+    <td><input type="radio" name="gender" value="Other">Other</td></tr>
+    <tr><ul><td><li><label>Martial Status:</li></label></td></ul>
+    <td><input type="radio">value="yes"</td>
+    <td><input type="radio">value"No</td></tr>
+    <tr><ul><td><li>Known Tools & Technology:</li></td></ul>
+    <td><input type="checkbox">Angular</td>
+      <td><input type="checkbox">React</td>
+    <td><input type="checkbox" >python</td>
+      <td><input type="checkbox">java</td>
+    <td><input type="checkbox" name="" id="">GIT</td></tr>
+    <tr><ul><td><li><label>Designation:</label></li></td></ul>
+    <td><input type="" placeholder="UI Developer" id=""></td></tr>
+    <tr><ul><td><li><label>Country:</label></li></td></ul>
+    <td><input type="text" placeholder="india" id=""></td></tr>
+    <tr><ul><td><li><label>Present Address:</label></li></td></ul>
+    <td><textarea name="" id="" cols="30" rows="10"></textarea></td></tr><br><br>
+    <td><input type=submit></td> <td><input type=Reset></td>
+
+    width: 28vb;
+height: 12vh;
+border: 22px;
+color: rgb(241, 238, 243);
+margin-left: 55%;margin-bottom: 100%;
+padding: 30px;
+background-color: brown;
+text-indent: 36px;text-align: center; } 
